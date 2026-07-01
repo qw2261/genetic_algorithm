@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - "-xc++"
+    - "-std=c++17"
+    - "-I/Users/qi/Documents/trae_projects/genetic_algorithm/TSP/include"
+
+Diagnostics:
+  UnusedIncludes: None

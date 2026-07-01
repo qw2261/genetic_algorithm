@@ -1,0 +1,10 @@
+.venv/
+build/
+*.so
+*.pyd
+src/tsp_core.cpp
+output/
+logs/
+outputpython/
+__pycache__/
+*.pyc
